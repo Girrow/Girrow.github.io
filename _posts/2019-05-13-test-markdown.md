@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: 정하린이란?
+subtitle: 교정시력 1.0, 1.0. 두발로 걷고 두코로 숨을 쉬는 어마무시한 남자
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+지금 접속하세요 [Harin.dev](http://www.harin.dev/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
 
