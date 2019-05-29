@@ -1,42 +1,16 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
+title: GDJ16 0529 멸망전 결과
+subtitle: 힝
 tags: [books, shakespeare, test]
 ---
 
-To be, or not to be--that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep--
-No more--and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. 'Tis a consummation
-Devoutly to be wished. To die, to sleep--
-To sleep--perchance to dream: ay, there's the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There's the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th' oppressor's wrong, the proud man's contumely
-The pangs of despised love, the law's delay,
-The insolence of office, and the spurns
-That patient merit of th' unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o'er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. -- Soft you now,
-The fair Ophelia! -- Nymph, in thy orisons
-Be all my sins remembered.
+![1](https://1.bp.blogspot.com/-jw87Miib4I4/XO6I8UL0DnI/AAAAAAAABPA/G-49j9_YG4UP6gC9HsMFiE-HhhQPFzZ1QCLcBGAs/s1600/1.png)
+![1-1](https://1.bp.blogspot.com/-uUGtfktiDvw/XO6I8W7zikI/AAAAAAAABO8/YrqNcIzxToom9K0snsNF-MgY6EPbHpM-gCLcBGAs/s1600/1-1.png)
+
+![2](https://1.bp.blogspot.com/-NrladmM4qRU/XO6I9OcozDI/AAAAAAAABPI/ATBP9qCGPygFqVSpkOhY0ewD-mgd5pHVgCLcBGAs/s1600/2.png)
+![2-1](https://1.bp.blogspot.com/-qw11yw8YqgE/XO6I8a0TqAI/AAAAAAAABO4/crdxu3JKzMwxfofH0UxuX8E0vS3HQoK8ACLcBGAs/s1600/2-2.png)
+
+![3](https://1.bp.blogspot.com/-xLV0ZiLA7_M/XO6I9kYX_QI/AAAAAAAABPM/y5RI2iaKN3sP5C-lv9K6uIcfBVIskXSIwCLcBGAs/s1600/3.png)
+![3-1](https://1.bp.blogspot.com/-zsIiRso1L3A/XO6I9DM58hI/AAAAAAAABPE/zl1pZxAt-xkn0taoABqeQhcaGvUildTvgCLcBGAs/s1600/3-2.png)
+
