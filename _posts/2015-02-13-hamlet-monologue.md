@@ -2,7 +2,7 @@
 layout: post
 title: GDJ16 0529 멸망전 결과
 subtitle:
-tags: [#전부_돈내야됨,#아몰랑]
+tags: [a,b]
 ---
 
 ![1](https://1.bp.blogspot.com/-jw87Miib4I4/XO6I8UL0DnI/AAAAAAAABPA/G-49j9_YG4UP6gC9HsMFiE-HhhQPFzZ1QCLcBGAs/s1600/1.png)
