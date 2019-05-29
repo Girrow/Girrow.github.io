@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-지금 접속하세요 [Harin.dev](http://www.harin.dev/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+지금 접속하세요 [Harin.dev](http://www.harin.dev/)
 
 **Here is some bold text**
 
