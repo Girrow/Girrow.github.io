@@ -7,6 +7,7 @@ var main = {
 
   init : function() {
     // Shorten the navbar after scrolling a little bit down
+	  /*
     $(window).scroll(function() {
         if ($(".navbar").offset().top > 50) {
             $(".navbar").addClass("top-nav-short");
@@ -62,7 +63,7 @@ var main = {
       });
 
       fakeMenu.remove();
-    }
+    }*/
 
     // show the big header image
     main.initImgs();
